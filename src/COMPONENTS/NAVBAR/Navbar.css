@@ -1,0 +1,29 @@
+.overall{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    align-items: center;
+    color: white;
+}
+.nav-logo{
+    margin-top: 15px;
+    font-family: poppins;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.nav-menu{
+    margin-top: 10px;
+    list-style: none;
+    font-family: poppins;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-right: 10px;
+}
+.nav-contact{
+    background: white;
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: black;
+}

@@ -1,0 +1,56 @@
+.hero{
+    font-family: Outfit;
+}
+.hero-text{
+    font-size: 3.5rem;
+    color: white;
+    margin-top: 60px;
+}
+.hero-explore{
+    display: flex;
+    background: white;
+    align-items: center;
+    font-size: 1.2rem;
+    justify-content: space-between;
+    margin-top: 65px;
+    max-width: 200px;
+    padding: 6px;
+    max-height: 50px;
+    margin-left: 10px;
+    border-radius: 30px;
+
+}
+.arrow-btn{
+    height: 50px;
+}
+.hero-dot-play{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.hero-list-dots{
+    margin-left: 18px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 10px;
+}
+.hero-dot{
+    background: white;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.hero-dot.orange{
+    background: orangered;
+}
+.hero-play{
+    font-size: 1.4rem;
+    color: white;
+}
+.hero-play img{
+    height: 60px;
+    cursor: pointer;
+}
